@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Courier New', Courier, monospace;
+}
+.icn a{
+    font-size: 20px;
+    margin-left: 20px;
+    color: black;
+}
+.icn{
+    margin-left: 250px;
+    
+}
+.icn a:hover{
+    color: red;
+    transition: 0.3s;
+}
