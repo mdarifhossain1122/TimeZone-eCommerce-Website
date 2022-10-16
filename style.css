@@ -17,3 +17,8 @@
     color: red;
     transition: 0.3s;
 }
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
