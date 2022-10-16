@@ -17,8 +17,14 @@
     color: red;
     transition: 0.3s;
 }
-.container{
+.crd{
     display: flex;
     align-items: center;
     justify-content: space-around;
+}
+.item{
+    text-align: center;
+}
+.larg-btn{
+    text-align: center;
 }
